@@ -10,6 +10,7 @@
     * [2019-10 国盗物语：斋藤道三](doc/novel/2019-10ztds.md)
     * [2020-1 呼吸](doc/novel/2020-1hx.md)
     * [2020-1 银河帝国6基地边缘](doc/novel/2020-1yhdg.md)
+* [游戏屋](doc/game/README.md)
 * [杂想屋](doc/thoughts/README.md)
     * [闲谈-2019.11.11](doc/thoughts/11.11.md)
 
