@@ -1,5 +1,3 @@
-# 动物之森：新地平线
-#杂项
 
 > A game where you hang out and do stuff with a bunch of people in a single field.——Katusya Eguchi  
 
