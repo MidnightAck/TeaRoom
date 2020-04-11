@@ -1,0 +1,44 @@
+{
+    "title": "CrowFea的茶室",
+    "author": "CrowFea",
+    "language": "zh-hans",
+    "gitbook": "3.2.3",
+    "links": {
+        "sidebar": {
+            "从这里去我的技术博客": "http://crowfeablog.com"
+        }
+    },
+    "plugins": [ "github" ,"expandable-chapters-small","sharing","anchors" ,"fontsettings","favicon"],
+    "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/crowfea"
+        },
+        "expandable-chapters-small":{},
+        "sharing": {
+            "facebook": true,
+            "twitter": true,
+            "google": false,
+            "weibo": false,
+            "instapaper": false,
+            "vk": false,
+            "all": [
+                "facebook", "google", "twitter",
+                "weibo", "instapaper"
+            ]
+        },
+        "fontsettings": {
+            "theme": "night",
+            "family": "serif",
+            "size": 1       
+        },
+        "favicon":{
+            "shortcut": "assets/images/favicon.ico",
+            "bookmark": "assets/images/favicon.ico",
+            "appleTouch": "assets/images/apple-touch-icon.png",
+            "appleTouchMore": {
+                "120x120": "assets/images/apple-touch-icon-120x120.png",
+                "180x180": "assets/images/apple-touch-icon-180x180.png"
+            }
+        }
+    }
+}
