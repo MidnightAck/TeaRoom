@@ -13,6 +13,7 @@
 * [游戏屋](doc/game/README.md)
     * [Animal Crossing：New Horizon](doc/game/AnimalCrossing.md)
     * [游戏设计的透镜](doc/game/tj1.md)
+    * [从核心玩法开始设计游戏](doc/game/hxwf.md)
 * [杂想屋](doc/thoughts/README.md)
     * [闲谈-2019.11.11](doc/thoughts/11.11.md)
 
