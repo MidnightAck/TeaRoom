@@ -6,6 +6,7 @@
 
 * [哲学屋](doc/Philosophy/README.md)
     * [人生的智慧](doc/Philosophy/2020-4rs.md)
+    * [毛选｜湖南农民运动考察报告](doc/Philosophy/2020-4hnnm.md)
 * [小说屋](doc/novel/README.md)
     * [推理小说们](doc/novel/2020-2tuili.md)
     * [国盗物语：斋藤道三](doc/novel/2019-10ztds.md)
