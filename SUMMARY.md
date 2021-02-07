@@ -62,8 +62,6 @@
     * [关于NSObject](tech-space-1/gun-language/gun-swift/guan-yu-nsobject.md)
     * [关于 Optional](tech-space-1/gun-language/gun-swift/ios.md)
     * [关于Swift的函数](tech-space-1/gun-language/gun-swift/untitled-1.md)
-  * [➕ 丨C++](tech-space-1/gun-language/gun-c++.md)
-  * [🐧 丨Go](tech-space-1/gun-language/gun-go.md)
 * [💻 丨OS](tech-space-1/gun-os/README.md)
   * [APUE笔记 \| 文件和文件描述符](tech-space-1/gun-os/untitled.md)
 * [🌏 丨 Env](tech-space-1/gun-env/README.md)
