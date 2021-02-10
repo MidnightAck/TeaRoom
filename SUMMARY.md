@@ -35,6 +35,7 @@
   * [游戏设计的透镜](personal/game/tj1.md)
   * [从核心玩法开始设计游戏](personal/game/hxwf.md)
 * [🧩 丨碎片](personal/thoughts/README.md)
+  * [2021.2.10 周三 年终总结](personal/thoughts/2021.2.10-zhou-san-nian-zhong-zong-jie.md)
   * [2019.11.11 周一](personal/thoughts/11.11.md)
   * [2020.10.26 周一](personal/thoughts/2020.10.26-zhou-yi.md)
   * [2020.12.7 周一](personal/thoughts/2020.12.7-zhou-yi.md)
